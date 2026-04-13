@@ -1,8 +1,2 @@
-fastapi
-uvicorn
-pydantic
-pydantic-settings
-passlib[bcrypt]
-pyjwt
-python-dotenv
-slowapi
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
